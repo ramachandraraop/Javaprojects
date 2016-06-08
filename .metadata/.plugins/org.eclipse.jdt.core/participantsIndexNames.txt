@@ -1,3 +1,5 @@
 INDEX VERSION 1.127
+/home/tsuser/Documents/Myrepo/Javaprojects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4222424694.index
+/JSPDemo/src
 /home/ramu/Desktop/myrepo/Javaprojects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4222424694.index
 /JSPDemo/src
